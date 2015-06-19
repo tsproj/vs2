@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace GitTest_1
 {
-	class Sample
+	public class Sample
 	{
+
+		public void ShowMessage()
+		{
+
+		}
+
 	}
 }
